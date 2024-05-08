@@ -1,6 +1,6 @@
 numpy
-skimage
-sklearn
+scikit-image
+scikit-learn
 matplotlib
 joblib
 streamlit
